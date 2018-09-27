@@ -33,7 +33,7 @@ iftop
 inotify-tools
 iotop
 jq
-kdump-tools
+#kdump-tools
 lsof
 memstat
 ncdu

@@ -29,7 +29,7 @@ linux-tools-generic
 # that are leveraging ZFS as their root filesystem.
 #
 grub-pc
-delphix-zfs
+#delphix-zfs
 
 #
 # The following packages provide the minimal set of packages that are
